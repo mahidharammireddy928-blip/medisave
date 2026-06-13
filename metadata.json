@@ -1,0 +1,6 @@
+{
+  "name": "Prescription Savings Calculator",
+  "description": "Calculate monthly and annual savings by switching from branded chronic medicines to generic equivalents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
